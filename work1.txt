@@ -5,3 +5,5 @@ test 3
 test 4
 
 sample 1
+
+clone add 1
